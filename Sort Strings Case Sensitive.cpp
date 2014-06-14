@@ -1,4 +1,5 @@
 //  http://www.spoj.com/problems/DIFFICUL/
+
 #include<bits/stdc++.h>
 using namespace std;
 
